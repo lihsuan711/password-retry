@@ -10,3 +10,5 @@ for i in range(2,0,-1):
     else:
         ans=input('你還有'+str(i)+'次機會:')
         i-=1
+
+        #第二版
